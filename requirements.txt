@@ -1,0 +1,13 @@
+./fairseq/
+datasets==2.7.1
+einops==0.6.0
+ftfy==6.0.3
+opencv-python==4.6.0.66
+pycocoevalcap==1.2
+pycocotools==2.0.4
+pytorch_lightning==1.8.4
+rouge_score==0.1.2
+tensorboard==2.11
+tensorboardX==2.4.1
+timm==0.6.11
+numpy==1.20.3
